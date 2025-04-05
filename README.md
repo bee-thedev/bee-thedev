@@ -1,5 +1,5 @@
-<h1 align="left">Hey there 👋 I'm Beenysh</h1>
-<p align="left">Fullstack Dev • Math Teacher (retired) • Writer of Words & Code</p>
+<h1 align="center">Hey there 👋 I'm Beenysh</h1>
+<p align="center">Fullstack Dev • Math Teacher • Writer of Words & Code</p>
 
 I’m a self-taught fullstack dev who swapped chalkboards for code.  
 Mathematics teacher ➡️ Code ninja 🧠💻  
