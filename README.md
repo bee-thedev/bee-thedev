@@ -1,18 +1,38 @@
-# Hi, I'm Beenysh! 👋
+# Hi, I'm Beenysh 👋
 
-A self-taught full stack developer 🚀 | Mathematics teacher 📐 | Writer ✍️
+I’m a self-taught fullstack dev who swapped chalkboards for code.  
+Mathematics teacher ➡️ Code ninja 🧠💻  
+Also a writer, researcher, and part-time dreamer ☁️
 
-## 💻 Tech Stack
+---
 
-- HTML | CSS | JavaScript
-- React | Node.js
-- MongoDB | Firebase
+## 🔧 What I Can Do  
+- Build cool stuff with **HTML**, **CSS**, and **JavaScript**  
+- Tame the backend with **Node.js**, **Express**, and **MongoDB**  
+- Bring it all together with **React**  
+- Fix bugs, drink chai, repeat ☕
 
-## 🎯 What I'm Working On
+---
 
+## ⚡ Current Vibes  
+- Running my digital agency **Pixelrgbxpert** 🎨  
+- Learning new tech, one bug at a time 🐛  
+- Helping others switch gears to tech 🚀
 
+---
 
-## 📬 Let's Connect!
+## 📫 Let’s connect  
+Wanna collab or just say hi?  
+Find me here:  
+[🌐 Portfolio](https://beenyshsaeed.vercel.app)
+[📷 Instagram](https://www.instagram.com/beefinity/)
+[💼 LinkedIn](https://www.linkedin.com/in/beenysh-saeed-713b60215/)
 
-[Portfolio](https://beenyshsaeed.vercel.app) | [LinkedIn](https://www.linkedin.com/in/beenysh-saeed-713b60215/) | [Instagram](https://www.instagram.com/beefinity/)
+---
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+> *“Late to the party, but still showing up like a boss.”*
 
