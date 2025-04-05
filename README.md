@@ -24,9 +24,9 @@ Also a writer, researcher, and part-time dreamer ☁️
 ## 📫 Let’s connect  
 Wanna collab or just say hi?  
 Find me here:  
-[🌐 Portfolio](https://beenyshsaeed.vercel.app)
-[📷 Instagram](https://www.instagram.com/beefinity/)
-[💼 LinkedIn](https://www.linkedin.com/in/beenysh-saeed-713b60215/)
+[🌐 Portfolio](https://beenyshsaeed.vercel.app) |
+[📷 Instagram](https://www.instagram.com/beefinity/) |
+[💼 LinkedIn](https://www.linkedin.com/in/beenysh-saeed-713b60215/) 
 
 ---
 
