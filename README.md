@@ -3,7 +3,7 @@
  -->
  
 I’m a self-taught fullstack dev who swapped chalkboards for code.  
-Mathematics teacher ➡️ Code ninja 🧠💻  
+Mathematics teacher ➡️ Curious coder, always learning and building 
 Also a writer, researcher, and part-time dreamer ☁️
 
 ---
