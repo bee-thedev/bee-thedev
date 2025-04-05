@@ -15,5 +15,5 @@ A self-taught full stack developer 🚀 | Mathematics teacher 📐 | Writer ✍�
 
 ## 📬 Let's Connect!
 
-[Portfolio](https://yourwebsite.com) | [LinkedIn](https://linkedin.com/in/yourhandle) | [Instagram](https://instagram.com/yourhandle)
+[Portfolio](https://beenyshsaeed.vercel.app) | [LinkedIn](https://www.linkedin.com/in/beenysh-saeed-713b60215/) | [Instagram](https://www.instagram.com/beefinity/)
 
