@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Beenysh! 👋
 
-<!--
-**bee-thedev/bee-thedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A self-taught full stack developer 🚀 | Mathematics teacher 📐 | Writer ✍️
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML | CSS | JavaScript
+- React | Node.js
+- MongoDB | Firebase
+
+## 🎯 What I'm Working On
+
+- My startup: Pixelrgbxpert 💡
+- A blog about switching careers to tech in your 30s 💪
+
+## 📬 Let's Connect!
+
+[Portfolio](https://yourwebsite.com) | [LinkedIn](https://linkedin.com/in/yourhandle) | [Instagram](https://instagram.com/yourhandle)
+
