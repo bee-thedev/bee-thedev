@@ -10,8 +10,7 @@ A self-taught full stack developer 🚀 | Mathematics teacher 📐 | Writer ✍�
 
 ## 🎯 What I'm Working On
 
-- My startup: Pixelrgbxpert 💡
-- A blog about switching careers to tech in your 30s 💪
+
 
 ## 📬 Let's Connect!
 
