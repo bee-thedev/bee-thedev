@@ -36,3 +36,40 @@ Find me here:
 
 > *“Late to the party, but still showing up like a boss.”*
 
+
+<h1 align="center">Hey there 👋 I'm Zoya</h1>
+<p align="center">Fullstack Dev • Math Teacher (retired) • Writer of Words & Code</p>
+
+---
+
+### 🧩 About Me
+- 💡 I love turning ideas into interactive web apps  
+- 🧠 Switched from chalkboards to keyboards  
+- 🖌️ Running my creative tech studio: **Pixelrgbxpert**
+
+---
+
+### 🛠 Tech I'm Using
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 🤙 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/yourhandle)  
+- 📷 [Instagram](https://instagram.com/yourhandle)  
+- 🌐 [Portfolio](https://yourwebsite.com)
+
+---
+
+<p align="center"><i>"Code like nobody's watching. Because no one is—you're still learning."</i></p>
